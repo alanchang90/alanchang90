@@ -26,7 +26,7 @@ A desktop tool designed to help job seekers track their daily job applications w
 
 ---
 
-### [Adventures of Mine](https://github.com/alanchang90/Adventures-of-Mine)
+### [Adventures of Mine](https://github.com/alanchang90/The-Adventure-of-Mine)
 A collaborative project built in **Swift**, designed to help users track their daily exercise and physical activities locally on their devices.
 
 **Key Features**:
